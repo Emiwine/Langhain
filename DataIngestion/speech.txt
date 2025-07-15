@@ -1,0 +1,16 @@
+Good morning everyone,
+
+Today, I want to talk about a fundamental yet powerful concept in the data world — Data Ingestion.
+
+Data ingestion is the process of collecting and bringing data from various sources into a centralized system, like a data warehouse, data lake, or a database, where it can be further processed, analyzed, or stored.
+
+In today’s digital era, businesses collect data from many sources — mobile apps, websites, IoT devices, social media, and more. But having data in different places is not helpful unless we can bring it all together. That’s exactly what data ingestion does. It acts like a bridge — gathering raw data and transporting it into a system where it becomes usable.
+
+There are two major types of data ingestion: batch and real-time. In batch ingestion, data is collected and loaded at scheduled intervals — like every hour or once a day. This is great for systems that don’t need instant updates. On the other hand, real-time ingestion captures and loads data continuously, almost instantly — perfect for applications like fraud detection, live analytics, or monitoring smart devices.
+
+Many modern tools help with data ingestion — such as Apache Kafka for streaming, Apache NiFi for data flows, and cloud services like AWS Glue and Azure Data Factory.
+
+In short, without proper data ingestion, our analytics systems would be blind. It's the first and most crucial step in turning raw data into meaningful insights.
+
+Thank you!
+
